@@ -1,16 +1,41 @@
-## Hi there 👋
+## About me! 👋
+I'm a QA Analyst with some years of professional experience in manual testing, currently transitioning into automation testing using Python, Pytest, Selenium.
 
-<!--
-**srijanakayastha/srijanakayastha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Background
+- Experienced professional QA Analyst with some knowledge of automation testing 
+- Strong understanding of:
+  - Test case & test scenario design
+  - Bug reporting and defect tracking
+  - Exploratory testing
+  - SDLC & STLC fundamentals
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- To be Automation QA Engineer
+- Write clean, maintainable test automation
+- Transition from manual to automated testing in real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+
+### Languages
+- Python
+- HTML
+- CSS
+
+### Testing
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+
+### Automation
+- Pytest
+- Selenium
+- XPath
+
+### Tools
+- Git & GitHub
+- Appium
+- Charles Proxy
+- Postman
+- Jira
+- Test rail
+
