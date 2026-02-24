@@ -1,5 +1,5 @@
 ## About me! 👋
-I'm a QA Analyst with some years of professional experience in manual testing, currently transitioning into automation testing using Python, Pytest, Selenium.
+I'm a QA Analyst with some years of professional experience in manual testing, currently transitioning into automation testing using Python, Pytest and Selenium.
 
 ## 🧠 Background
 - Experienced professional QA Analyst with some knowledge of automation testing 
