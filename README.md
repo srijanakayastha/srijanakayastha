@@ -1,50 +1,69 @@
 ## About me! 👋
 I'm a QA Analyst with some years of professional experience in manual testing, currently transitioning into automation testing using Python, Pytest and Selenium.
+I’m passionate about building reliable, maintainable, and scalable test automation frameworks and continuously improving software quality.
 
 ## 🧠 Background
-- Experienced professional QA Analyst with some knowledge of automation testing 
+🔎 Experienced professional QA Analyst with some knowledge of automation testing 
 - Strong understanding of:
   - Test case & test scenario design
   - Bug reporting and defect tracking
   - Exploratory testing
   - SDLC & STLC fundamentals
+  - Cross-browser & cross-platform testing
+  - 
+I bring analytical thinking, attention to detail, and a strong quality mindset to every project.
 
-## 🎯 Goals
-- To be Automation QA Engineer
-- Write clean, maintainable test automation
-- Transition from manual to automated testing in real-world projects
+## 🎯 Current Focus
+- Becoming a full-time Automation QA Engineer
+- Writing clean, scalable, maintainable automation frameworks
+- Applying automation in real-world CI/CD environments
+- Improving test reliability and reducing flaky tests
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech and Tools
 
-### Languages
-- Python
-- HTML
-- CSS
+### 💻 Languages
+- Python – scripting, automation, API testing
+- HTML & CSS – basic web understanding for UI automation
 
-### Testing
-- Manual Testing
-- Test Case Design
-- Bug Reporting
+### 🧪 Manual Testing
+- Test Case & Test Scenario Design
+- Bug Reporting & Defect Tracking
+- Exploratory Testing
+- SDLC & STLC Fundamentals
 
-### Automation
-- Pytest
-- Selenium
-- XPath
+### 🤖 Automation Testing
+- Selenium WebDriver – web UI automation
+- Pytest – test execution, fixtures, parametrization
+- XPath & CSS Selectors – robust element locators
+- Page Object Model (POM) – maintainable test architecture
 
-### Tools
-- Git & GitHub
-- Appium
-- Charles Proxy
-- Postman
-- Jira
-- Test rail
+### 🌐 API Testing
+- Postman – manual API testing & validation
+- Swagger – API documentation, testing, and understanding API contracts
+- Python requests library – API automation
+
+ ### 📊 Reporting & CI/CD
+
+- Allure Reports – professional test reports
+- Pytest HTML Reports – quick HTML test summaries
+- GitHub Actions – CI/CD pipelines for automated testing
+
+ ### 📱 Mobile & Cross-Browser Testing
+  - Appium – mobile automation testing (iOS/Android)
+  - Charles Proxy – network debugging and mobile traffic inspection
+ 
+### 🧰 Version Control & Collaboration
+
+- Git & GitHub – version control, branching, PR workflow
+- Jira – bug tracking & project management
+- TestRail – test case management
 
 
-## 📌  What you'll find on my GitHub
+## 📂 What you'll find on my GitHub
 - Python fundamentals & exercises
-- Pytest and Selenium practice projects
+- Selenium + Pytest automation frameworks
 - Automation experiments
-- Testing notes
+- Testing best practices & notes
 
 ## 📫 Let's connect
 - LinkedIn: https://www.linkedin.com/in/skayastha/
