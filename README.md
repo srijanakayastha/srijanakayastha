@@ -39,3 +39,14 @@ I'm a QA Analyst with some years of professional experience in manual testing, c
 - Jira
 - Test rail
 
+
+📌 ### What you'll find on my GitHub
+Python fundamentals & exercises
+Pytest and Selenium practice projects
+Automation experiments
+Testing notes
+
+📫  ### Let's connect
+LinkedIn: https://www.linkedin.com/in/skayastha/
+Email: srijanakayastha@gmail.com
+
