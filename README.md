@@ -1,4 +1,4 @@
-## About me! 👋
+## 👋 Hi, I'm Srijana Kayastha  
 I'm a QA Analyst with some years of professional experience in manual testing, currently transitioning into automation testing using Python, Pytest and Selenium.
 
 I’m passionate about building reliable, maintainable, and scalable test automation frameworks and continuously improving software quality.
