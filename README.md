@@ -11,7 +11,7 @@ I’m passionate about building reliable, maintainable, and scalable test automa
   - Exploratory testing
   - SDLC & STLC fundamentals
   - Cross-browser & cross-platform testing
-  - 
+    
 I bring analytical thinking, attention to detail, and a strong quality mindset to every project.
 
 ## 🎯 Current Focus
