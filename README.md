@@ -17,8 +17,8 @@ I bring analytical thinking, attention to detail, and a strong quality mindset t
 ## 🎯 Current Focus
 - Becoming a Automation QA Engineer
 - Writing clean, scalable, maintainable automation frameworks
-- Applying automation in real-world CI/CD environments
-- Improving test reliability and reducing flaky tests
+- Transition from manual to automated testing in real-world projects
+
 
 ## 🛠️ Tech and Tools
 
