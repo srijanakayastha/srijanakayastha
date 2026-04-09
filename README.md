@@ -60,11 +60,12 @@ I bring analytical thinking, attention to detail, and a strong quality mindset t
 - TestRail – test case management
 
 
-## 📂 What you'll find on my GitHub
-- Python fundamentals & exercises
-- Selenium + Pytest automation frameworks
-- Automation experiments
-- Testing best practices & notes
+## 📌 Featured Projects
+Web Application Test Automation Framework – GroceryMate
+
+End-to-end test automation framework using Selenium & Pytest
+Page Object Model (POM) structure
+Test reporting & reusable components
 
 ## 📫 Let's connect
 - LinkedIn: https://www.linkedin.com/in/skayastha/
