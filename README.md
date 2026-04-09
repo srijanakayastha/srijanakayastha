@@ -60,12 +60,12 @@ I bring analytical thinking, attention to detail, and a strong quality mindset t
 - TestRail – test case management
 
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 Web Application Test Automation Framework – GroceryMate
 
-End-to-end test automation framework using Selenium & Pytest
-Page Object Model (POM) structure
-Test reporting & reusable components
+- End-to-end test automation framework using Selenium & Pytest
+- Page Object Model (POM) structure
+- Test reporting & reusable components
 
 ## 📫 Let's connect
 - LinkedIn: https://www.linkedin.com/in/skayastha/
