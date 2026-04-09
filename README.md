@@ -61,7 +61,7 @@ I bring analytical thinking, attention to detail, and a strong quality mindset t
 
 
 ### 📌 Featured Projects
-Web Application Test Automation Framework – GroceryMate
+[Web Application Test Automation Framework – GroceryMate]
 
 - End-to-end test automation framework using Selenium & Pytest
 - Page Object Model (POM) structure
